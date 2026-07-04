@@ -1,0 +1,5 @@
+1. Technology is the strongest category by total profit; Furniture has the weakest profit contribution.
+2. Orders with discounts of 30%+ average a -3.6% profit margin, versus 22.4% for orders discounted 10% or less.
+3. South region leads in profit; East lags furthest behind despite comparable sales volume.
+4. 'Tables' is the single biggest drag on profit at the sub-category level.
+5. Average shipping time across all orders is 4.0 days.
